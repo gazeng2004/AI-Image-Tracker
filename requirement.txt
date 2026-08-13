@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+torchvision
+tensorboard
+wandb
+scikit-learn
+pillow
+matplotlib
+transformers
+tqdm
+seaborn
+pyyaml
+python-dotenv
+jupyter
